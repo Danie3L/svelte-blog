@@ -35,6 +35,7 @@
         text-align: justify;
         line-height: 163%;
         flex-grow: 2;
+        word-break: break-word;
     }
     small {
         position: absolute;

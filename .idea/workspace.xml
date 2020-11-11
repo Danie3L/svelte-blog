@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8f17b84-16ee-4d08-90cf-2281c77be652" name="Default Changelist" comment="" />
+    <list default="true" id="a8f17b84-16ee-4d08-90cf-2281c77be652" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Post.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Post.svelte" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k5gLygRfXfLe5niayxSO3X4OAB" />
   <component name="ProjectViewState">
@@ -27,7 +36,14 @@
       <option name="presentableId" value="Default" />
       <updated>1604995814750</updated>
       <workItem from="1604995815951" duration="13635000" />
-      <workItem from="1605020204934" duration="2783000" />
+      <workItem from="1605020204934" duration="3476000" />
+      <workItem from="1605027453104" duration="277000" />
+      <workItem from="1605031351798" duration="1179000" />
+      <workItem from="1605041930654" duration="235000" />
+      <workItem from="1605096877830" duration="119000" />
+      <workItem from="1605103060160" duration="2655000" />
+      <workItem from="1605113392219" duration="954000" />
+      <workItem from="1605118107523" duration="1300000" />
     </task>
     <servers />
   </component>
@@ -35,6 +51,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605042135205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605042135205" />
     <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1605016514481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
