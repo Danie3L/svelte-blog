@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a8f17b84-16ee-4d08-90cf-2281c77be652" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Form.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Post.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Post.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SaveButton.svelte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +51,7 @@
       <workItem from="1605298652182" duration="31000" />
       <workItem from="1605434010093" duration="5000" />
       <workItem from="1605441376250" duration="6467000" />
-      <workItem from="1605460581624" duration="2916000" />
+      <workItem from="1605460581624" duration="3896000" />
     </task>
     <servers />
   </component>
