@@ -5,8 +5,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Form.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Post.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Post.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SaveButton.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +47,18 @@
       <workItem from="1605096877830" duration="119000" />
       <workItem from="1605103060160" duration="2655000" />
       <workItem from="1605113392219" duration="954000" />
-      <workItem from="1605118107523" duration="1300000" />
+      <workItem from="1605118107523" duration="1920000" />
+      <workItem from="1605205991116" duration="655000" />
+      <workItem from="1605210444576" duration="2722000" />
+      <workItem from="1605255042334" duration="4957000" />
+      <workItem from="1605264584632" duration="1249000" />
+      <workItem from="1605267007683" duration="4945000" />
+      <workItem from="1605275340347" duration="829000" />
+      <workItem from="1605278638206" duration="80000" />
+      <workItem from="1605298652182" duration="31000" />
+      <workItem from="1605434010093" duration="5000" />
+      <workItem from="1605441376250" duration="6467000" />
+      <workItem from="1605460581624" duration="2916000" />
     </task>
     <servers />
   </component>
@@ -51,10 +66,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605042135205">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605267561523">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605042135205" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605267561523" />
     <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1605016514481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
